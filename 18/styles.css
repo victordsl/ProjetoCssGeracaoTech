@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    background-color: #808080;
+    margin: 8px ;
+}
+h2{
+    color: rgb(154, 17, 147);
+}
+
+hr{
+    width: 100px;
+    border-color: blueviolet;
+}
+
+#titulo{
+    color: white;
+    padding: 15px;
+}
+#fundo{
+    background-color: white;
+    
+}
+#cabecalho{
+    background-color: rgb(154, 17, 147);
+    
+}
+#TextoDireitos{
+    color: white;
+    padding: 10px;
+}
+.containerTimes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.times{
+    height: 5em;
+    width: 5em;
+    border-radius: 100%;
+    background-color: blueviolet;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.team{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.textoDeveloper{
+    color:  rgb(154, 17, 147);
+    margin: 10px;
+    width: 12%;
+    margin-bottom: 50px;
+}
+h3{
+    color: rgb(154, 17, 147);
+    margin: 5px;
+    width: 11%;
+
+}
